@@ -1,2 +1,2 @@
-# execel
+# excel
 Dio Desafio financeiro
